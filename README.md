@@ -1,42 +1,52 @@
-# OrgViz
-
-Enterprise-grade organizational hierarchy visualization tool built with React and Vite.
+# OrgViz - 企业组织架构可视化工具
 
 ![OrgViz](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
 
-## Features
+## 核心优势
 
-- Interactive org chart visualization with zoom and pan
-- Hierarchical tree view with search and filtering
-- Employee roster by department with detailed profiles
-- Multi-country/region filtering
-- Drag-and-drop navigation
+**1. 交互友好，操作直观**
+- 支持缩放、平移、展开/折叠节点
+- 点击即可查看部门及员工详情
+- 搜索框快速定位目标单位
 
-## Run Locally
+**2. 多维度筛选，高效定位**
+- 支持按国家/地区筛选
+- 可同时选择多个筛选条件
+- 实时更新视图，数据洞察一目了然
 
-**Prerequisites:** Node.js
+**3. 双视图模式，灵活切换**
+- 左侧：层级树状图，清晰展示汇报关系
+- 右侧：员工花名册，显示详细职位、职级信息
+
+**4. 数据驱动，洞察全局**
+- CSV 数据导入，开箱即用
+- 自动解析组织架构层级
+- 支持大规模组织（百人级团队）
+
+## 快速启动
+
+**环境要求：** Node.js
 
 ```bash
-# Install dependencies
+# 安装依赖
 npm install
 
-# Start development server
+# 启动开发服务器
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+访问 [http://localhost:3000](http://localhost:3000)
 
-## Build
+## 构建生产版本
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## Tech Stack
+## 技术栈
 
-- React 19
-- Vite 6
-- TypeScript
-- Tailwind CSS
-- Lucide React icons
+- React 19 + TypeScript
+- Vite 6 构建工具
+- Tailwind CSS 样式
+- Lucide React 图标库
