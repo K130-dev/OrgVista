@@ -1,0 +1,135 @@
+org_id,org_name,parent_org_id,org_type,leader_code,leader_name,leader_level,leader_position,country_name
+52679,Employee Relations Team,SO010910,TEAM2,S25547,Aria,6BP,Employee Relations Lead,China
+SO011725,Assessment Center,SO004294,TEAM3,TR002652,Blake,4CP,Assessment Specialist,China
+48543,Learning & Development,SO005582,TEAM2,S27773,Casey,7AP,Learning Expert,China
+53855,Benefits Administration,SO007847,TEAM3,TR022473,Drew,6BP,Benefits Lead,China
+64974,International Training,SO005582,TEAM2,S27773,Casey,7AP,Learning Expert,China
+SO000078,Southeast Asia Hub,SO003170,TEAM3,TR053132,Ellis,6AP,Regional HR Head,Malaysia
+SO003170,South Asia Operations,50303,TEAM2,S66385,Foster,6CP,Regional HR Lead,Malaysia
+SO010971,Generalist Team,6858,TEAM,TR043656,Fox,3CP,Benefits Specialist,China
+41670,Talent Services,SO010910,TEAM2,S04200,Gray,7AP,Services Director,China
+51247,Shanghai Site,51246,TEAM4,S04200,Gray,7AP,Services Director,China
+SO002140,Onboarding Team,41670,TEAM3,S04200,Gray,7AP,Services Director,China
+52589,Outsourcing Center,51247,TEAM,S04200,Gray,7AP,Services Director,China
+51246,Shared Services,41670,TEAM3,S04200,Gray,7AP,Services Director,China
+39347,Xiamen Site,39346,TEAM,S47947,Hart,4BP,HR Specialist,China
+SO011724,Recruitment Channel,SO004294,TEAM3,TR025803,Iris,4AP,Recruitment Specialist,China
+SO014390,Operations Team B,41670,TEAM,D04095,Jordan,5BP,Services Manager,China
+SO005583,Incentive Center,DEPT9999,TEAM1,S09671,Kai,7BP,Incentive Lead,China
+SO007847,Compensation Team,SO005583,TEAM2,S09671,Kai,7BP,Incentive Lead,China
+SO012802,HR Generalists,DEPT9999,FUNC ORGS,S09671,Kai,7BP,Incentive Lead,China
+41694,Culture & Training,41693,TEAM4,N18120,Lane,4CP,Culture Specialist,China
+62853,Korea Office,SO003171,TEAM3,TR018860,Morgan,5AP,HR Manager,Korea
+SO009542,International TA A,SO006173,TEAM3,TR033629,Noel,5BP,TA Team Lead,Singapore
+312,Talent Development,SO005581,TEAM2,S01166,Onyx,8CP,Talent Lead,China
+SO009157,Global Operations,SO012166,TEAM3,S65826,Parker,5BP,Global Manager,China
+SO014516,HR Analytics,312,TEAM3,S01166,Onyx,8CP,Talent Lead,China
+41699,Rugao Site,41693,TEAM,N16476,Quinn,4BP,HR Specialist,China
+SO014517,Organization Design,312,TEAM,S01166,Onyx,8CP,Talent Lead,China
+SO005581,Talent Growth Hub,DEPT9999,TEAM1,S01166,Onyx,8CP,Talent Lead,China
+SO005582,Leadership Academy,SO005581,FUNC ORGS,S01166,Onyx,8CP,Talent Lead,China
+50303,Global Support,DEPT9999,TEAM1,S10324,River,8AP,Global HR Head,China
+41695,Helpdesk Team,41693,TEAM4,N17207,Skylar,5CP,Benefits Manager,China
+41696,Records Team,41695,TEAM,N17207,Skylar,5CP,Benefits Manager,China
+41697,Payroll Team,41695,TEAM,N17207,Skylar,5CP,Benefits Manager,China
+41692,Nantong Site,SO005591,TEAM2,TR003618,Taylor,VP,HR GM,China
+DEPT9999,Human Resources Division,97,DEPARTMENT,TR003618,Taylor,VP,HR GM,China
+SO005591,Regional Support,DEPT9999,TEAM1,TR003618,Taylor,VP,HR GM,China
+SO013545,Customer Success,50303,TEAM2,S04424,Uma,8BP,CS Head,Singapore
+SO011727,Recruitment Systems,SO004294,TEAM3,TR033388,Violet,4CP,Recruitment Specialist,China
+SO012933,Intern Program,39346,TEAM4,S46982,Wren,4CP,Recruitment Specialist,China
+64983,Hong Kong Hub,SO003171,TEAM3,H00062,Xenon,5BP,HR Manager,Hong Kong
+SO013592,Executive Search,SO005732,TEAM3,TR056683,Yuki,7BP,Search Expert,Hong Kong
+41693,Department Leads,41692,TEAM3,N03452,Zara,7BP,Regional HR Head,China
+SO008241,International Interns,50303,TEAM2,S78842,Arrow,5BP,HR Excellence Lead,China
+SO009209,Flexible Staffing,41693,TEAM4,N03452,Zara,7BP,Regional HR Head,China
+SO009211,Agency Recruiting,SO009209,TEAM,N03452,Zara,7BP,Regional HR Head,China
+SO010402,Mobility & Compliance,SO005583,TEAM2,TR055134,Briar,7AP,Mobility Expert,China
+41698,Hefei Site,41693,TEAM,N03452,Zara,7BP,Regional HR Head,China
+SO009210,Young Talent Program,SO009209,TEAM,N03452,Zara,7BP,Regional HR Head,China
+47973,Support Center,6853,TEAM,G13551,Cedar,4AP,HR Specialist,China
+SO005377,Generalist Team,6853,TEAM,G13551,Cedar,4AP,HR Specialist,China
+SO011293,Payroll Operations,50303,TEAM2,TR018635,Dawn,5AP,Payroll Manager,China
+SO013993,Payroll & Benefits,SO005732,FUNC ORGS,TR052917,Flame,5CP,Payroll Lead,UK
+46041,Regional Coordination,6843,TEAM,B00004,Gold,6CP,Benefits Lead,China
+49364,Salary Team,14042,TEAM,B00004,Gold,6CP,Benefits Lead,China
+6849,Shenyang Site,6844,TEAM4,B00004,Gold,6CP,Benefits Lead,China
+39349,Nanjing Site,39346,TEAM4,S58136,Indigo,5BP,L&D Manager,China
+59660,Generalist Team,39349,TEAM,S58136,Indigo,5BP,L&D Manager,China
+SO000755,IT Support Remote,52589,TEAM,TR051522,Jade,T14,Tech Support Lead,China
+6854,Shenzhen Site,6845,TEAM4,G00002,Lapis,6CP,HR Manager,China
+6855,Wuhan Site,6845,TEAM4,G00002,Lapis,6CP,HR Manager,China
+SO010403,Compensation Division,SO007847,TEAM3,TR023253,Mint,6BP,Compensation Lead,China
+SO011107,HR Operations,SO005732,TEAM3,TR057666,Neo,5BP,Operations Manager,UK
+SO007846,HRBP Team,SO005732,TEAM3,TR055059,Opal,5CP,HRBP Lead,UK
+62226,Payroll & Tax Ops,SO005583,TEAM2,S26121,Pearl,6BP,Payroll Lead,China
+50327,Japan Hub,SO003171,TEAM3,TR002172,Quartz,5AP,HR Manager,Japan
+SO004426,Employer Brand,SO005581,TEAM2,S80840,Ruby,6BP,Brand Manager,China
+SO014515,Brand Operations,SO004426,TEAM,S80840,Ruby,6BP,Brand Manager,China
+SO006173,International TA Center,50303,TEAM2,TR043869,Sapphire,6AP,TA Head,Singapore
+41678,Operations Team A,41670,TEAM3,S13219,Topaz,5CP,HR Manager,China
+48058,Equity Management,SO005583,TEAM2,S11446,Amber,6CP,Equity Lead,China
+SO005732,EMEA Division,50303,TEAM2,TR037379,Vesper,7BP,Regional HR Head,UK
+SO011106,Advisory Services,SO005732,TEAM3,TR037379,Vesper,7BP,Regional HR Head,UK
+12497,Kunming Site,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+59471,Generalist Team,6859,TEAM,D02886,Stone,6AP,Regional HR Head,China
+6858,Chengdu Site,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+SO003171,North Asia Region,50303,TEAM2,TR045879,Willow,7BP,HRBP Director,China
+59472,Generalist Team,13100,TEAM,D02886,Stone,6AP,Regional HR Head,China
+SO005287,West China Payroll,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+13100,Xi'an Site,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+50328,Thailand Hub,SO003170,TEAM3,S61540,Coral,6AP,Country HR Lead,Thailand
+6846,West China Region,6843,TEAM3,D02886,Stone,6AP,Regional HR Head,China
+6859,Chongqing Site,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+SO005288,West China Recruiting,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+SO008006,Americas Division,50303,TEAM2,TR045879,Willow,7BP,HRBP Director,USA
+SO011105,Oceania Division,50303,TEAM2,TR045879,Willow,7BP,HRBP Director,Australia
+SO012047,Singapore Hub,SO003170,TEAM3,TR038924,Azure,6AP,Country HR Lead,Singapore
+SO013729,Training Culture,6846,TEAM4,D02886,Stone,6AP,Regional HR Head,China
+6843,Branch Network,SO005591,TEAM2,B00013,Frost,8AP,North Region GM,China
+SO006714,Recruiting Team,49363,TEAM,B06443,Gem,5AP,HR Manager,China
+14044,Staff Recruiting,14042,TEAM,B00013,Frost,8AP,North Region GM,China
+6844,North China Region,6843,TEAM3,B00013,Frost,8AP,North Region GM,China
+6848,Beijing Site,6844,TEAM4,B00013,Frost,8AP,North Region GM,China
+14042,HR Team,6848,TEAM,B00013,Frost,8AP,North Region GM,China
+49363,Recruiting Management,14042,TEAM,B00013,Frost,8AP,North Region GM,China
+48542,Talent Acquisition Hub,DEPT9999,TEAM1,S06259,Helio,7CP,Group TA Lead,China
+59720,Culture Team,6853,TEAM,G03002,Ice,7CP,Regional HR Head,China
+6845,South China Region,6843,TEAM3,G03002,Ice,7CP,Regional HR Head,China
+6856,Sanya Site,6845,TEAM4,G03002,Ice,7CP,Regional HR Head,China
+SO004294,Recruiting Platform,48542,TEAM2,S06259,Helio,7CP,Group TA Lead,China
+SO011726,Recruiting Systems,SO004294,TEAM3,S06259,Helio,7CP,Group TA Lead,China
+SO014478,Global HR Trainee,50303,TEAM2,TR001177,Jade,6AP,Global TA Manager,China
+41700,Recruiting Team,41693,TEAM4,S30678,Kappa,4CP,Recruiting Lead,China
+6853,Guangzhou Site,6845,TEAM4,G03002,Ice,7CP,Regional HR Head,China
+SO011728,Enablement Center,SO004294,TEAM3,S06259,Helio,7CP,Group TA Lead,China
+SO010404,Compensation PMO,SO007847,TEAM,TR048970,Lyra,6BP,Compensation Lead,China
+SO000258,Tech Team A,12497,TEAM,G09320,Mars,6CP,Tech Admin Lead,China
+41669,Department Management,DEPT9999,TEAM1,S01933,Nova,7AP,BU HR Head,China
+41682,Campus Recruiting,48542,TEAM2,TR039620,Orion,6AP,Campus Lead,China
+49366,Culture Team,14042,TEAM,B06382,Pulse,5AP,Culture Lead,China
+50265,Campus Tech Program,41682,TEAM3,TR039620,Orion,6AP,Campus Lead,China
+50266,Campus General Program,41682,TEAM3,TR039620,Orion,6AP,Campus Lead,China
+63695,Performance Team,SO014516,TEAM4,S65717,Sage,6AP,Performance Lead,China
+6857,Recruiting Team,6853,TEAM,G11432,Tide,5BP,Recruiting Manager,China
+SO013488,Malaysia IBU,SO003170,TEAM3,TR050974,Volt,5BP,HRBP,Malaysia
+54884,Innovation Lab,48543,TEAM3,S75419,Core,6CP,Learning Lead,China
+39348,Qingdao Site,39346,TEAM4,S07745,Zephyr,6CP,Regional HR Head,China
+SO010910,Talent Service Hub,DEPT9999,TEAM1,TR044837,Apex,8AP,SSC Head,China
+SO012166,Global Talent Services,SO010910,TEAM2,TR044837,Apex,8AP,SSC Head,China
+39346,East China Region,6843,TEAM3,S07745,Zephyr,6CP,Regional HR Head,China
+59659,Generalist Team,39348,TEAM,S07745,Zephyr,6CP,Regional HR Head,China
+SO013487,Malaysia Hub,SO003170,TEAM3,TR050004,Aurora,6AP,Country HR Lead,Malaysia
+SO006181,Korea Client Center,SO006180,TEAM3,S73721,Blaze,6BP,HRBP,Korea
+49023,Communications,SO003452,TEAM3,TR008267,Clarity,7BP,Communications Expert,China
+SO003537,Events Team,SO003452,TEAM3,TR008267,Clarity,7BP,Communications Expert,China
+SO006180,APAC Service,50303,TEAM2,S73721,Blaze,6BP,Service HR Lead,Korea
+SO006183,Japan Client Center,SO006180,TEAM3,S73721,Blaze,6BP,Service HR Lead,Japan
+SO003452,Corporate Culture,SO005581,TEAM2,TR008267,Clarity,7BP,Communications Expert,China
+SO006184,Thailand Client Center,SO006180,TEAM,S73721,Blaze,6BP,Service HR Lead,Thailand
+SO004912,Disability Program,62226,TEAM3,S42887,Echo,UNKNOWN,Benefits Specialist,China
+39350,Hangzhou Site,39346,TEAM4,B00729,Fern,5BP,Recruiting Manager,China
+59661,Generalist Team,39350,TEAM,B00729,Fern,5BP,Recruiting Manager,China
+SO000700,Tech Product Team,6848,TEAM,B02966,Gale,5CP,Compensation Lead,China
+46040,Generalist Team,14042,TEAM,B02966,Gale,5CP,Compensation Lead,China
+49365,Benefits Team,14042,TEAM,B02966,Gale,5CP,Compensation Lead,China
